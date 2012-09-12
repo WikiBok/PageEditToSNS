@@ -1,1 +1,3 @@
-config/*
+config/setting.php
+config/facebook.php
+config/twitter.php
